@@ -1,1 +1,4 @@
 *master
+*dist
+*build
+*.egg*

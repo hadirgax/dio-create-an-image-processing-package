@@ -7,9 +7,11 @@ dependencies:
 - pip:
     - numpy>=1.23.3
     - matplotlib>=3.6.0
-    - scikit-image
+    - scikit-image>=0.19.3
     - black>=22.6.0                         # dev
     - ipython>=8.5.0                        # dev
     - notebook>=6.4.12                      # dev
     - openpyxl>=3.0.10                      # dev
     - pillow>=9.2.0                         # dev
+    - twine
+    - setuptools
